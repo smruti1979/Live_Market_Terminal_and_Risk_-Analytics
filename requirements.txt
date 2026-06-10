@@ -1,0 +1,7 @@
+confluent-kafka
+twelvedata
+websocket-client
+requests
+pandas
+streamlit
+altair
