@@ -5,8 +5,8 @@ the platform utilizes Apache Kafka to ingest live stock feeds continuously from 
 dedicated producer and consumer nodes to deliver low-latency telemetry directly to a financial risk visualization dashboard.
 
 
-## Execute in powershell, docker-compose up --build -d
-## access the dashboard on the browser,
+#### Execute in powershell, docker-compose up --build -d
+#### Access the dashboard on the browser,
   http://localhost:8501/
 
-  You can find the ** architectural document ** and the test result in the Artifacts folder
+  You can find the **Architectural document** and the test result in the Artifacts folder
